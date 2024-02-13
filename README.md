@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **react & mern stack**
 
-- 👯My last project was building an clone of airbnb [https://office-bnb-db7e2b940bf0.herokuapp.com/](https://office-bnb-db7e2b940bf0.herokuapp.com/)
+- 👯My last project was building an clone of airbnb [Office bnb](https://office-bnb-db7e2b940bf0.herokuapp.com/)
 
 - 💬 Ask me about **Music & Ruby on rails**
 
