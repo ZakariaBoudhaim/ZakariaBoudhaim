@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakariaboudhaim&label=Profile%20views&color=0e75b6&style=flat" alt="zakariaboudhaim" /> </p>
 
+- 🔭 I’m currently working on " connecting artisan with art enthusiast" [Baz'Art](https://bazart-17dadf0992eb.herokuapp.com/)
+
 - 🌱 I’m currently learning **react & mern stack**
+
+- 👯My last project was building an clone of airbnb [https://office-bnb-db7e2b940bf0.herokuapp.com/](https://office-bnb-db7e2b940bf0.herokuapp.com/)
 
 - 💬 Ask me about **Music & Ruby on rails**
 
